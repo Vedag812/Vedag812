@@ -81,4 +81,4 @@ I also love **mentoring peers**, sharing resources, and creating content to simp
 ---
 
 ### ⭐ Thank you for visiting my profile! Let’s connect, collaborate, and grow together 🌱
-[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=react)](https://github.com/your-github/github-readme-stats)
+[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedag812&show_icons=true&theme=react)](https://github.com/Vedag812/github-readme-stats)
