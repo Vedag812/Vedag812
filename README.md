@@ -20,9 +20,9 @@ This is the central hub for all my work, resources, and contributions as I conti
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedant-Agarwal/Vedant-Agarwal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedant-Agarwal/Vedant-Agarwal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Vedant-Agarwal/Vedant-Agarwal/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedag812/Vedag812/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedag812/Vedag812/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Vedag812/Vedag812/output/github-snake.svg" />
 </picture>
 
 ---
