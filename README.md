@@ -14,7 +14,6 @@ This is the central hub for all my work, resources, and contributions as I conti
   <a href="https://www.linkedin.com/in/vedant-agarwal-36bb18142/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
 </div>
 
 ---
@@ -30,7 +29,7 @@ This is the central hub for all my work, resources, and contributions as I conti
 ## 📌 About Me
 
 I am an aspiring **Data Scientist & Generative AI Enthusiast**, passionate about leveraging **AI, Machine Learning, and Software Engineering** to solve real-world problems.  
-Currently pursuing **Computer Science Engineering**, I’m focused on building strong foundations in **programming, data analysis, and AI research** while contributing to open-source projects and hackathons.  
+Currently pursuing **Computer Science Engineering**, I'm focused on building strong foundations in **programming, data analysis, and AI research** while contributing to open-source projects and hackathons.  
 
 I also love **mentoring peers**, sharing resources, and creating content to simplify technology for learners and enthusiasts.
 
@@ -42,6 +41,24 @@ I also love **mentoring peers**, sharing resources, and creating content to simp
     <img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,html,css,mysql,git,github,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,firebase,figma" />
 </div>
+
+---
+
+<h2 align="center">📊 My Stats 📊</h2>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Vedag812">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vedag812&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vedag812&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Vedag812/">
+    <img src="https://leetcard.jacoblin.cool/Vedag812?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
 
 ---
 
@@ -74,11 +91,21 @@ I also love **mentoring peers**, sharing resources, and creating content to simp
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [Vedant Agarwal](https://www.linkedin.com/in/vedant-agarwal-36bb18142/)  
-- **GitHub**: [Vedant Agarwal](https://github.com/your-github)  
-- **YouTube**: [Vedant Agarwal](https://www.youtube.com/@your-channel)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/vedant-agarwal-36bb18142/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vedag812" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Vedag812/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:vedantagarwal039@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
 ---
 
-### ⭐ Thank you for visiting my profile! Let’s connect, collaborate, and grow together 🌱
-[![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedag812&show_icons=true&theme=react)](https://github.com/Vedag812/github-readme-stats)
+<h3 align="center">⭐ Thank you for visiting my profile! Let's connect, collaborate, and grow together 🌱</h3>
