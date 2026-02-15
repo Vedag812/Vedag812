@@ -104,12 +104,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedag812&theme=redical&hide_border=true&bg_color=0d1117&color=fe428e&line=fe428e&point=f8d847&area=true&area_color=fe428e" width="97%"/>
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
