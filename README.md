@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Vedag812">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=35&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Open+Source+Contributor+%E2%80%94+Microsoft+VS+Code" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=35&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Open+Source+Contributor" />
   </a>
 </p>
 
@@ -20,11 +20,23 @@
 
 ## About
 
-Second-year **Computer Science Engineering** student with a strong focus on **Machine Learning**, **Data Science**, and **Natural Language Processing**. I build and deploy ML models, contribute to large-scale open-source projects, and work on real-world data problems.
+Second-year **Computer Science Engineering** student with a strong focus on **Machine Learning**, **Data Science**, and **Natural Language Processing**. I build ML models, contribute to production-level open-source projects, and solve real-world data problems.
 
-**Open source contributor to [Microsoft VS Code](https://github.com/microsoft/vscode)** — identified and fixed accessibility bugs and code quality issues across the core editor codebase, with multiple pull requests accepted. Selected as an **HPAIR Delegate at Harvard University** and a national-level **Smart India Hackathon** participant. Completed professional Data Science simulations with **British Airways** and **Deloitte** through Forage, and participated in **Google's GenAI Workshop & Hackathon** on Kaggle.
+Active open-source contributor across multiple repositories — from **Microsoft's VS Code** editor to accessibility tools and iOS apps. Selected as an **HPAIR Delegate at Harvard University**, national-level **Smart India Hackathon** participant, and completed professional simulations with **British Airways** and **Deloitte**. Participated in **Google's GenAI Workshop & Hackathon** on Kaggle.
 
-I'm driven by the challenge of extracting actionable insights from complex data and building intelligent systems that create real impact.
+Driven by the challenge of building intelligent systems that create real impact.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌍 Open Source Contributions
+
+| Project | Description | PR |
+|:--------|:------------|:---|
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | Fixed accessibility bug — missing keybinding delimiter affecting screen readers | [#295412](https://github.com/microsoft/vscode/pull/295412) |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | Fixed 8 typos across 5 core source files | [#295415](https://github.com/microsoft/vscode/pull/295415) |
+| [**kiwix/kiwix-apple**](https://github.com/kiwix/kiwix-apple) | Implemented smooth tab switching with fade animations | [PR](https://github.com/kiwix/kiwix-apple/pulls?q=author%3AVedag812) |
+| [**genidma/teatime-accessibility**](https://github.com/genidma/teatime-accessibility) | Fixed spreadsheet compatibility for exported stats data | [Merged ✅](https://github.com/genidma/teatime-accessibility/pulls?q=author%3AVedag812+is%3Amerged) |
+| [**azapg/FAIR**](https://github.com/azapg/FAIR) | Built the enrollment system feature | [Merged ✅](https://github.com/azapg/FAIR/pulls?q=author%3AVedag812+is%3Amerged) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -64,15 +76,23 @@ I'm driven by the challenge of extracting actionable insights from complex data 
 
 <div align="center">
 
+<!-- Stats Card with glow effect via transparent theme -->
 <a href="https://github.com/Vedag812">
-  <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vedag812&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Vedag812&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=70a5fd"/>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vedag812&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </picture>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Vedag812">
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedag812&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vedag812&theme=tokyonight&hide_border=true&background=00000000&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=38bdae&dates=8b949e&currStreakNum=bf91f3&sideNums=70a5fd"/>
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedag812&theme=tokyonight&hide_border=true"/>
+  </picture>
 </a>
 
 <br/><br/>
 
+<!-- 3D Contribution Calendar -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
