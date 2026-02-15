@@ -47,7 +47,7 @@
 
 <div align="center">
 
-**Languages** &nbsp;&nbsp;|&nbsp;&nbsp; **ML & AI** &nbsp;&nbsp;|&nbsp;&nbsp; **Data Science** &nbsp;&nbsp;|&nbsp;&nbsp; **NLP** &nbsp;&nbsp;|&nbsp;&nbsp; **Tools**
+**Languages** &nbsp;•&nbsp; **ML / AI** &nbsp;•&nbsp; **Data Science** &nbsp;•&nbsp; **NLP** &nbsp;•&nbsp; **Tools & Platforms**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-🏛️ **HPAIR Delegate** — Harvard University &nbsp;•&nbsp; 🇮🇳 **Smart India Hackathon** — Ministry of Education &nbsp;•&nbsp; ✈️ **British Airways** DS Simulation &nbsp;•&nbsp; 📈 **Deloitte Analytics** Simulation &nbsp;•&nbsp; 🤖 **Google GenAI** Workshop &nbsp;•&nbsp; 🗃️ **SQL Fundamentals** — DataCamp &nbsp;•&nbsp; 💻 **Open Source** — Microsoft VS Code
+🏛️ **HPAIR Delegate** — Harvard University &nbsp;•&nbsp; 🇮🇳 **Smart India Hackathon** — MoE &nbsp;•&nbsp; ✈️ **British Airways** DS Simulation &nbsp;•&nbsp; 📈 **Deloitte Analytics** Simulation &nbsp;•&nbsp; 🤖 **Google GenAI** Workshop &nbsp;•&nbsp; 🗃️ **SQL Fundamentals** — DataCamp &nbsp;•&nbsp; 💻 **Open Source** — Microsoft VS Code
 
 </div>
 
@@ -92,35 +92,29 @@
 
 <div align="center">
 
-<!-- ROW 1: Main stats + Streak -->
 <a href="https://github.com/Vedag812">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vedag812&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-</a>&nbsp;
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vedag812&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847&text_color=a9fef7"/>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/Vedag812">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedag812&theme=radical&hide_border=true&background=0d1117"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedag812&theme=radical&hide_border=true&background=0d1117"/>
 </a>
 
-<br/><br/>
+</div>
 
-<!-- ROW 2: Top Languages (compact) -->
-<a href="https://github.com/Vedag812">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedag812&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" width="350"/>
-</a>
+<br/>
 
-<br/><br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedag812&theme=redical&hide_border=true&bg_color=0d1117&color=fe428e&line=fe428e&point=f8d847&area=true&area_color=fe428e" width="97%"/>
+</div>
 
-<!-- ROW 3: Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedag812&theme=redical&hide_border=true&bg_color=0d1117&color=ff6e96&line=fe428e&point=f8d847&area=true&area_color=fe428e" width="100%"/>
+<br/>
 
-<br/><br/>
-
-<!-- ROW 4: 3D Contribution Calendar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+    <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -131,17 +125,6 @@
   <a href="https://leetcode.com/u/Vedag812/">
     <img src="https://leetcard.jacoblin.cool/Vedag812?theme=dark&font=Nunito&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
   </a>
-</div>
-
-<br/>
-
-<!-- SNAKE -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedag812/Vedag812/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedag812/Vedag812/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Vedag812/Vedag812/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
 </div>
 
 <br/>
