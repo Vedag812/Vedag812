@@ -32,11 +32,11 @@ Driven by the challenge of building intelligent systems that create real impact.
 
 | Project | Description | PR |
 |:--------|:------------|:---|
-| [**microsoft/vscode**](https://github.com/microsoft/vscode) | Fixed accessibility bug — missing keybinding delimiter affecting screen readers | [#295412](https://github.com/microsoft/vscode/pull/295412) |
+| [**microsoft/vscode**](https://github.com/microsoft/vscode) | Fixed accessibility bug — missing keybinding delimiter affecting screen readers | [Merged](https://github.com/microsoft/vscode/pull/295412) |
 | [**microsoft/vscode**](https://github.com/microsoft/vscode) | Fixed 8 typos across 5 core source files | [#295415](https://github.com/microsoft/vscode/pull/295415) |
 | [**kiwix/kiwix-apple**](https://github.com/kiwix/kiwix-apple) | Implemented smooth tab switching with fade animations | [PR](https://github.com/kiwix/kiwix-apple/pulls?q=author%3AVedag812) |
-| [**genidma/teatime-accessibility**](https://github.com/genidma/teatime-accessibility) | Fixed spreadsheet compatibility for exported stats data | [Merged ✅](https://github.com/genidma/teatime-accessibility/pulls?q=author%3AVedag812+is%3Amerged) |
-| [**azapg/FAIR**](https://github.com/azapg/FAIR) | Built the enrollment system feature | [Merged ✅](https://github.com/azapg/FAIR/pulls?q=author%3AVedag812+is%3Amerged) |
+| [**genidma/teatime-accessibility**](https://github.com/genidma/teatime-accessibility) | Fixed spreadsheet compatibility for exported stats data | [Merged](https://github.com/genidma/teatime-accessibility/pulls?q=author%3AVedag812+is%3Amerged) |
+| [**azapg/FAIR**](https://github.com/azapg/FAIR) | Built the enrollment system feature | [Merged](https://github.com/azapg/FAIR/pulls?q=author%3AVedag812+is%3Amerged) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
