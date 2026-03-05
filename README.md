@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Vedag812">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=35&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Open+Source+Contributor" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=35&lines=Aspiring+Data+Scientist;Open+Source+Contributor" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## About
 
-Second-year **Computer Science Engineering** student with a strong focus on **Machine Learning**, **Data Science**, and **Natural Language Processing**. I build ML models, contribute to production-level open-source projects, and solve real-world data problems.
+Second-year **Computer Science Engineering** student with a strong focus on **Machine Learning**, **Data Science**, and **Natural Language Processing**. I am building ML models, contributed to production-level open-source projects, and solving real-world data problems.
 
 Active open-source contributor across multiple repositories — from **Microsoft's VS Code** editor to accessibility tools and iOS apps. Selected as an **HPAIR Delegate at Harvard University**, national-level **Smart India Hackathon** participant, and completed professional simulations with **British Airways** and **Deloitte**. Participated in **Google's GenAI Workshop & Hackathon** on Kaggle.
 
