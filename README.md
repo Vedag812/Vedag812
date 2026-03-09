@@ -54,7 +54,7 @@ Other recent work includes a UPI fraud detection pipeline built on 500K+ transac
 - Smart India Hackathon participant (national level)
 - Google GenAI Workshop and Kaggle Hackathon participant
 - Completed professional simulations with British Airways and Deloitte
-- GSoC 2026 contributor at MalariaGEN
+
 
 ---
 
