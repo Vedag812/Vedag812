@@ -1,122 +1,290 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vedant%20Agarwal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Vedant%20Agarwal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
+### Machine Learning · NLP · Data Science · Software Engineering
+
+Computer Science Engineering undergraduate interested in building reliable machine learning systems and production-oriented software.
+
+<p>
+  <a href="mailto:vedantagarwal039@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-agarwal-36bb18142/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/vedantagarwal0812">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Vedag812/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
 </div>
 
-<p align="center">
-  <a href="mailto:vedantagarwal039@gmail.com"><img src="https://img.shields.io/badge/vedantagarwal039@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vedant-agarwal-36bb18142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/vedantagarwal0812"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Vedag812/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
-</p>
- 
 ---
 
 ## About
 
-Computer Science Engineering undergraduate focused on machine learning, NLP, and data science.
- Prfixed an accessibility bug in [Microsoft VS Code](https://github.com/microsoft/vscode) that was affecting screen readers (PR merged into the main repo).
+I am a Computer Science Engineering undergraduate working primarily in **machine learning, natural language processing, financial AI, and data science**.
 
-Other recent work includes a UPI fraud detection pipeline built on 500K+ transactions, an AI-powered accident detection system with automated ambulance dispatch, and a crop yield optimization tool for Indian agriculture.
+My interests lie in developing machine learning systems that move beyond model training and include data preprocessing, evaluation, backend integration, analytics, and deployment-oriented design.
+
+I also contribute to open-source software. One of my recent contributions was a fix to the **Microsoft Visual Studio Code** repository addressing a keyboard shortcut rendering issue that affected screen-reader accessibility. The change was reviewed and merged into the main VS Code codebase.
+
+My recent technical work includes:
+
+* Building a fraud detection and transaction intelligence pipeline using more than **500,000 UPI transactions**
+* Developing financial machine learning applications for risk analysis and portfolio-oriented decision support
+* Designing a computer vision system for road accident detection with an automated ambulance dispatch workflow
+* Developing machine learning models for crop yield prediction and agricultural decision support
+* Contributing bug fixes, accessibility improvements, documentation corrections, and feature implementations to open-source repositories
 
 ---
 
 ## Open Source Contributions
 
-5 PRs merged across 4 organizations.
+I actively contribute to established open-source projects, with work spanning accessibility, Python debugging, documentation, data processing, and application features.
 
-| Project | What I did | PR | Status |
-|:--------|:-----------|:---|:-------|
-| [microsoft/vscode](https://github.com/microsoft/vscode) | Fixed missing keybinding delimiter that broke screen readers | [#295412](https://github.com/microsoft/vscode/pull/295412) | Merged |
-| [malariagen/malariagen-data-python](https://github.com/malariagen/malariagen-data-python) | Fixed TypeError on single-exon transcripts in veff.py (#840) | [#873](https://github.com/malariagen/malariagen-data-python/pull/873) | Merged |
-| [malariagen/malariagen-data-python](https://github.com/malariagen/malariagen-data-python) | Fixed broken DOI link and docstring typos | [#874](https://github.com/malariagen/malariagen-data-python/pull/874) | Merged |
-| [azapg/FAIR](https://github.com/azapg/FAIR) | Built the enrollment system feature | [#131](https://github.com/azapg/FAIR/pull/131) | Merged |
-| [genidma/teatime-accessibility](https://github.com/genidma/teatime-accessibility) | Fixed spreadsheet export compatibility | [#113](https://github.com/genidma/teatime-accessibility/pull/113) | Merged |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | Fix for marketplace connection issue | [#296029](https://github.com/microsoft/vscode/pull/296029) | Open |
+### Microsoft Visual Studio Code
 
----
+Contributed an accessibility-related fix to the VS Code codebase by correcting a missing keybinding delimiter that affected the way keyboard shortcuts were interpreted by screen readers.
 
-## Featured Projects
+**Merged Pull Request:**
+[microsoft/vscode#295412](https://github.com/microsoft/vscode/pull/295412)
 
-| Project | What it does | Tech |
-|:--------|:-------------|:-----|
-| [UPI-Fraud-Detection](https://github.com/Vedag812/UPI-Fraud-Detection-and-Transaction-Insights) | End-to-end fraud detection pipeline on 500K+ UPI transactions with risk scoring and dashboards | Python, XGBoost, Pandas, Power BI |
-| [FinGuard-AI](https://github.com/Vedag812/FinGuard-AI) | Financial AI tool for risk analysis and portfolio management | Python, ML, FastAPI |
-| [AI-Accident-Detector](https://github.com/Vedag812/AI-Accident-Detector-and-Ambulance-Dispatcher) | Real-time accident detection from video feeds with automated ambulance dispatch | Python, Deep Learning, OpenCV |
-| [KrishiSevak](https://github.com/Vedag812/KrishiSevak-Crop-Yield-Optimization-System) | Crop yield prediction and optimization system for Indian agriculture | Python, ML, Data Science |
-| [RoomVision](https://github.com/Vedag812/RoomVision) | Room layout and design visualization tool | TypeScript |
-| [Modish-AI](https://github.com/Vedag812/Modish-AI-Retail-Assistant) | AI retail assistant for personalized shopping recommendations | Python, NLP |
+### Contributions
+
+| Project                    | Contribution                                                                          | Pull Request                                                          | Status |
+| -------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------ |
+| **Microsoft VS Code**      | Fixed missing keybinding delimiter affecting screen-reader accessibility              | [#295412](https://github.com/microsoft/vscode/pull/295412)            | Merged |
+| **MalariaGEN Data Python** | Fixed a `TypeError` encountered while processing single-exon transcripts in `veff.py` | [#873](https://github.com/malariagen/malariagen-data-python/pull/873) | Merged |
+| **MalariaGEN Data Python** | Corrected a broken DOI reference and documentation inconsistencies                    | [#874](https://github.com/malariagen/malariagen-data-python/pull/874) | Merged |
+| **FAIR**                   | Implemented functionality for the enrollment system                                   | [#131](https://github.com/azapg/FAIR/pull/131)                        | Merged |
+| **TeaTime Accessibility**  | Fixed compatibility issues related to spreadsheet export                              | [#113](https://github.com/genidma/teatime-accessibility/pull/113)     | Merged |
+| **Microsoft VS Code**      | Proposed a fix related to marketplace connectivity behavior                           | [#296029](https://github.com/microsoft/vscode/pull/296029)            | Open   |
+
+**Current record: 5 merged pull requests across 4 open-source organizations.**
 
 ---
 
-## Achievements
+## Selected Projects
 
-- Delegate at the Harvard Project for Asian and International Relations (HPAIR) conference
-- Smart India Hackathon participant (national level)
-- Google GenAI Workshop and Kaggle Hackathon participant
-- Completed professional simulations with British Airways and Deloitte
+### UPI Fraud Detection and Transaction Intelligence
 
+[Repository](https://github.com/Vedag812/UPI-Fraud-Detection-and-Transaction-Insights)
 
----
+An end-to-end machine learning and analytics project built around more than **500,000 UPI transactions**.
 
-## Research Interests
+The system focuses on identifying suspicious payment behavior, generating transaction-level fraud risk signals, and analyzing behavioral patterns across large transaction datasets.
 
-- Machine Learning
-- Natural Language Processing
-- Financial AI
-- Generative AI Systems
+Key areas covered in the project include:
 
----
+* Data cleaning and preprocessing for large transactional datasets
+* Exploratory analysis of transaction and fraud patterns
+* Feature engineering for fraud classification
+* Machine learning-based fraud detection using XGBoost and related techniques
+* Transaction risk scoring
+* Analytical reporting and visualization through Power BI
+* End-to-end workflow from raw transaction data to interpretable fraud insights
 
-## Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</div>
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Power BI
 
 ---
 
-## GitHub Stats
+### FinGuard AI
+
+[Repository](https://github.com/Vedag812/FinGuard-AI)
+
+A financial AI application focused on machine learning-based risk analysis and portfolio-oriented decision support.
+
+The project explores the use of data-driven methods for financial analysis while integrating machine learning functionality with an application backend.
+
+Areas covered include:
+
+* Financial data preprocessing
+* Risk-oriented analytics
+* Machine learning inference
+* Portfolio-related analysis
+* API-based integration for model services
+* Structured backend design using FastAPI
+
+**Technologies:** Python, Machine Learning, FastAPI, Financial Analytics
+
+---
+
+### AI Accident Detector and Ambulance Dispatcher
+
+[Repository](https://github.com/Vedag812/AI-Accident-Detector-and-Ambulance-Dispatcher)
+
+A computer vision project designed to identify road accidents from video streams and connect detected incidents with an automated emergency response workflow.
+
+The system combines video analysis with event-based application logic to explore how computer vision can assist in reducing the delay between accident detection and emergency notification.
+
+Key components include:
+
+* Video frame processing
+* Accident detection using deep learning
+* Computer vision pipelines using OpenCV
+* Detection-triggered emergency workflow
+* Automated ambulance dispatch logic
+* Integration of ML inference with application-level response systems
+
+**Technologies:** Python, Deep Learning, OpenCV, Computer Vision
+
+---
+
+### KrishiSevak: Crop Yield Optimization System
+
+[Repository](https://github.com/Vedag812/KrishiSevak-Crop-Yield-Optimization-System)
+
+A machine learning project designed to support crop yield prediction and agricultural decision-making in the Indian farming context.
+
+The project applies data preprocessing, feature analysis, and supervised machine learning to agricultural datasets with the goal of estimating crop yield and supporting data-informed farming decisions.
+
+Key areas include:
+
+* Agricultural dataset preprocessing
+* Feature analysis
+* Crop yield prediction
+* Machine learning model evaluation
+* Data-driven agricultural recommendations
+
+**Technologies:** Python, Pandas, Scikit-learn, Machine Learning, Data Science
+
+---
+
+### RoomVision
+
+[Repository](https://github.com/Vedag812/RoomVision)
+
+A room layout and design visualization application focused on interactive interior planning.
+
+The project explores frontend application development and interactive visualization while providing users with a way to experiment with room layouts and design configurations.
+
+**Technologies:** TypeScript
+
+---
+
+### Modish AI Retail Assistant
+
+[Repository](https://github.com/Vedag812/Modish-AI-Retail-Assistant)
+
+An AI-based retail assistant developed to explore personalized product discovery and recommendation workflows.
+
+The project applies natural language processing and machine learning concepts to understand user preferences and generate more relevant shopping recommendations.
+
+**Technologies:** Python, NLP, Machine Learning
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+`Python` · `C++` · `Java` · `JavaScript` · `TypeScript` · `SQL`
+
+### Machine Learning
+
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost`
+
+### Natural Language Processing
+
+`Transformers` · `Text Classification` · `Sentiment Analysis` · `LLM-based Systems`
+
+### Data Engineering and Analysis
+
+`Pandas` · `NumPy` · `Data Preprocessing` · `Feature Engineering` · `Exploratory Data Analysis`
+
+### Backend and Databases
+
+`FastAPI` · `PostgreSQL` · `MySQL`
+
+### Developer Tools
+
+`Git` · `GitHub` · `VS Code` · `Jupyter Notebook`
+
+### Analytics
+
+`Power BI` · `Kaggle`
+
+---
+
+## Areas of Interest
+
+My current technical interests include:
+
+* Machine Learning Engineering
+* Natural Language Processing
+* Financial AI
+* Generative AI
+* Adversarial Machine Learning
+* Computer Vision
+* Applied Data Science
+* Reliable and interpretable machine learning systems
+
+I am particularly interested in understanding how machine learning systems behave when exposed to noisy, adversarial, domain-specific, or distribution-shifted data.
+
+
+
+## Leadership and Activities
+
+* Delegate at the **Harvard Project for Asian and International Relations (HPAIR)**
+* Participant in the **Smart India Hackathon**
+* Participant in a **Google Generative AI Workshop**
+* Kaggle hackathon participant
+* Completed professional simulations with **British Airways** and **Deloitte**
+* Active contributor to open-source software projects
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/Vedag812">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Vedag812&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=70a5fd"/>
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vedag812&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </picture>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vedag812&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/Vedag812">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vedag812&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
+## Current Focus
+
+I am currently strengthening my work in:
+
+* Production-oriented machine learning
+* NLP and transformer-based models
+* Model evaluation and reliability
+* Open-source engineering
+* Backend integration for ML applications
+* Algorithmic problem solving and data structures
+
+I am also interested in contributing to technically challenging open-source projects where I can work on real codebases, debugging, accessibility, machine learning infrastructure, or developer tooling.
+
+---
+
 ## Contact
 
-Based in India (IST, UTC+5:30). Open to remote internships and research collaborations.
+I am open to opportunities involving:
 
-- Email: vedantagarwal039@gmail.com
-- LinkedIn: [linkedin.com/in/vedant-agarwal-36bb18142](https://www.linkedin.com/in/vedant-agarwal-36bb18142/)
-- Kaggle: [kaggle.com/vedantagarwal0812](https://www.kaggle.com/vedantagarwal0812)
-- LeetCode: [leetcode.com/u/Vedag812](https://leetcode.com/u/Vedag812/)
+**Machine Learning Engineering · Applied AI · Data Science · NLP · Software Engineering · Research**
+
+I am particularly interested in internships, research collaborations, and engineering opportunities where I can work on meaningful technical problems and production-oriented systems.
+
+**Email:** [vedantagarwal039@gmail.com](mailto:vedantagarwal039@gmail.com)
+**LinkedIn:** [linkedin.com/in/vedant-agarwal-36bb18142](https://www.linkedin.com/in/vedant-agarwal-36bb18142/)
+**Kaggle:** [kaggle.com/vedantagarwal0812](https://www.kaggle.com/vedantagarwal0812)
+**LeetCode:** [leetcode.com/u/Vedag812](https://leetcode.com/u/Vedag812/)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" />
+
 </div>
